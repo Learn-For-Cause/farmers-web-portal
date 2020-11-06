@@ -7,7 +7,17 @@ html, body{
     box-sizing: border-box;
     overflow-x: hidden;
 }
-
+marquee{
+    color: blue;
+}
+marquee button{
+    border: 0px solid white;
+    background-color: crimson;
+    border-radius: 25%;
+    color:white;
+    padding: 5px;
+   
+}
 :root{
 
     /*      Theme colors        */
@@ -169,6 +179,8 @@ p{
 .nav .social i:hover{
     color: #a1c4cf;
 }
+
+
 
 /* -------x------- navbar ---------x------- */
 
